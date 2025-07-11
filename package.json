@@ -1,7 +1,7 @@
 {
     "name": "@purinton/ssh-client",
     "type": "module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A simple, ESM-first SSH client for Node.js with private key authentication and sequential command execution.",
     "module": "index.mjs",
     "types": "index.d.ts",
@@ -42,7 +42,7 @@
     },
     "homepage": "https://github.com/purinton/ssh-client#readme",
     "devDependencies": {
-        "jest": "^30.0.2"
+        "jest": "^30.0.4"
     },
     "jest": {
         "testEnvironment": "node",
